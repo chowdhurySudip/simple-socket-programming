@@ -28,5 +28,5 @@ make
 ./echoclient (in another terminal)
 ```
 
-### Requirements
+## References
 - [Beej’s Guide to Network Programming](http://beej.us/guide/bgnet/pdf/bgnet_a4_c_1.pdf)
